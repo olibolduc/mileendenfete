@@ -2611,7 +2611,10 @@ figcaption {
 }
 
 .image_banner_wrapper {
+  justify-content: center;
+  align-items: center;
   width: 100%;
+  display: flex;
 }
 
 .logo2_content {
